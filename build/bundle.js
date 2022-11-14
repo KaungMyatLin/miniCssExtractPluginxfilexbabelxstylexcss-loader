@@ -1,0 +1,1 @@
+(()=>{"use strict";document.write(`${"Affirmative"}, ${"Dave"}. I read you but I’m sorry, I’m afraid I can’t do that.`),document.write('<div class="element">\nLorem ipsum dolor sit amet, consectetur adipisicing elit.\n</div>')})();
